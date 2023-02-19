@@ -9,7 +9,7 @@
 <div align="center">
 <h3 align="center">Life Expectancy Data Mining</h3>
   <p align="center">
-    There are 3 components to this project, the R code, a written word report elaborating on data mining technique, and a powerpoint presentation. 
+    There are 3 components to this project, the R code, a written word report elaborating on data mining techniques, and a powerpoint presentation. 
     <br />
   </p>
 </div>
